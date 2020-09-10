@@ -1,0 +1,157 @@
+h1
+{
+	color: white;
+        text-shadow: 2px 2px white;      
+        font-family: Algerian, sans-serif;
+        font-size: 60px;
+        font-weight: bold;
+        margin-bottom: 1px;
+        text-align: center;
+}
+#graph_object
+{
+       text-align: left;
+       font-family:Algerian, sans-serif;
+       font-size:20px;
+       background: white;
+       
+}
+#MAP-TOOL
+{
+     display: inline-block;    
+     background: black;
+     color: white;
+     font-family: Algerian, sans-serif;
+     font-size: 20px;
+
+}
+#CHART-TOOL
+{
+     display: inline-block;    
+     background: black;
+     color: white;
+     font-family: Algerian, sans-serif;
+     font-size: 20px;
+
+}
+#WORLD-MAP
+{
+     font-size: 20px;  
+     display: inline-block;
+     font-family: Algerian, sans-serif;    
+     background: black;
+     color: white;
+}
+#INDIA-MAP
+{
+     font-size: 20px;  
+     display: inline-block;
+     font-family: Algerian, sans-serif;    
+     background: black;
+     color: white;
+}
+#WorldC
+{
+     font-size: 20px; 
+     display: inline-block;
+     font-family: Algerian, sans-serif;    
+     background: black;
+     color: white;
+}
+#IndiaC
+{
+    font-size: 20px;  
+    display: inline-block;
+    font-family: Algerian, sans-serif;     
+    background: black;
+    color: white;
+}
+
+
+div
+{
+   background:black;
+   color: white;
+   font-family: Bahnschrift SemiBold Condensed, sans-serif;
+}
+#year_title
+{
+    text-align: left;
+    font-family:Algerian, sans-serif;
+    font-size:20px;
+}
+
+#month_dropdown
+{
+     background: black;
+     color: white;
+     text-align:center;
+     width:532px;
+     margin-left: 500px;
+     margin-bottom: 15px; 
+   
+}
+#date_dropdown
+{
+     background: black;
+     color: white;
+     text-align:center;
+     width:532px;
+     margin-left: 500px;
+     margin-bottom: 15px; 
+}
+#region_dropdown
+{
+     background: black;
+     color: white;
+     text-align:center;
+     width:532px;
+     margin-left: 500px;
+     margin-bottom: 15px; 
+    
+}     
+#country_dropdown
+{
+     background: black;
+     color: white;
+     text-align:center;
+     width:532px;
+     margin-left: 500px;
+     margin-bottom: 15px;
+}
+#state_dropdown
+{
+     background: black;
+     color: white;
+     text-align:center;
+     width:532px;
+     margin-left: 500px;
+     margin-bottom: 15px;
+}
+#city_dropdown
+{
+     background: black;
+     color: white;
+     text-align:center;
+     width:532px;
+     margin-left: 500px;
+     margin-bottom: 15px;
+       
+} 
+#attacktype_dropdown
+{
+     background: black;
+     color: white;
+     text-align:center;
+     width:532px;
+     margin-left: 500px;
+     margin-bottom: 15px;
+}
+#Chart_Dropdown
+{
+     background: black;
+     color: blue;
+     text-align:center;
+     width:532px;
+     margin: auto;
+}
